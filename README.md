@@ -1,5 +1,5 @@
 # Instagram-Redesign-Web-Version
-<h1>instagrame web redesign made with flutter ❤️ By Hmida71 🔥</h1>
+<h3>instagrame web redesign made with flutter ❤️ By Hmida71 🔥</h3>
 <hr>
 <table>
 
